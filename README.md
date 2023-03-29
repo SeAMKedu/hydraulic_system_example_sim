@@ -1,5 +1,8 @@
-# Simulink model of a hydraulic system
-![model_highest_level](/images/model2.png)
+# General info
+This model was created to serve as a training material for a SeAMK project called [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä](https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/) / [Growth of Manufacturing SMEs with New Product Development](https://projects.seamk.fi/en/project-database/?RepoProject=241004)
+
+The project is funded by Keski-Suomen ELY/ ESR.
+
 
 
 ## System description
@@ -7,6 +10,13 @@
 - Energy is fed to the system by an ideal flow source 
 - The control valve is used to define the motion direction.
 - The hydraulic cylinder generates the force required to open or close the gate.
+
+## Simulink model layout
+![model_highest_level](/images/model2.png)
+- The control sub-model has stroke limits which are cutting off the valve control signal at a specific point
+- The valve model consists of a valve dynamics, a flow path opening and a port flow sub-models
+- The hydraulic cylinder is modelled as a two separate chamber volumes and a seal friction sub-model
+- The gate inertial load has small friction included
 
 
 ## How to use the model
