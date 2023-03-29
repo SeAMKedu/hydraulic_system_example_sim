@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/620304538.svg)](https://zenodo.org/badge/latestdoi/620304538)
+
 ![](/images/tuotekehitys-logo.png)
 
 # General info
