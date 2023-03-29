@@ -10,6 +10,7 @@ This model was created to serve as a training material for a SeAMK project calle
 - Energy is fed to the system by an ideal flow source. 
 - The control valve is used to define the motion direction.
 - The hydraulic cylinder generates the force required to open or close the gate.
+- Hydraulic schematic is available in the images folder. 
 
 ## Simulink model layout
 ![](/images/model2.png)
