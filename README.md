@@ -15,7 +15,7 @@ This model was created to serve as a training material for a SeAMK project calle
 - Hydraulic schematic is available in the images folder. 
 
 ## Simulink model layout
-![](/images/model1.png)
+![](/images/model.png)
 - The control sub-model has stroke limits which are cutting off the valve control signal at a specific point. The output of a control sub-model is relative control signal -1...1.
 - The pump modeling is excluded in this model and it is assumed that the supply pressure is always available without any drops. 
 - The valve model consists of a valve dynamics, a flow path opening and a port flow sub-models. The output of this part is flow. 
