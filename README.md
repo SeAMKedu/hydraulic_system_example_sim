@@ -10,7 +10,7 @@ This model was created to serve as a training material for a SeAMK project calle
 - The hydraulic cylinder generates the force required to open or close the gate.
 
 ## Simulink model layout
-![model_highest_level](/images/model2.png)
+![](/images/model2.png)
 - The control sub-model has stroke limits which are cutting off the valve control signal at a specific point
 - The valve model consists of a valve dynamics, a flow path opening and a port flow sub-models
 - The hydraulic cylinder is modelled as a two separate chamber volumes and a seal friction sub-model
@@ -23,7 +23,7 @@ This model was created to serve as a training material for a SeAMK project calle
 Copy the files (3 pcs) to yout Matlab working folder and run the plot file. The plot script loads the parameters, runs the simulation model and plots the results.
 
 
-## Used Matlab version
+## Used Matlab and Simulink versions
 ```bash
 >> ver
 -----------------------------------------------------------------------------------------------------
