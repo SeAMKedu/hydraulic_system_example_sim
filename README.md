@@ -3,10 +3,10 @@
 ![model_highest_level](/images/model2.png)
 
 ## System description
--The purpose of the system is to open and close the safety gate. 
--Energy is fed to the system by an ideal flow source 
--The control valve is used to define the motion direction.
--The hydraulic cylinder generates the force required to open or close the gate.
+- The purpose of the system is to open and close the safety gate. 
+- Energy is fed to the system by an ideal flow source 
+- The control valve is used to define the motion direction.
+- The hydraulic cylinder generates the force required to open or close the gate.
 
 ## Simulink model and parameter file description
 
