@@ -24,7 +24,8 @@ This model was created to serve as a training material for a SeAMK project calle
 ## How to use the model
 ![](images/usage1.png)
 
-Copy the files (3 pcs) to yout Matlab working folder and run the plot file. The plot script loads the parameters, runs the simulation model and plots the results.
+Copy the files (3 pcs) to yout Matlab working folder and run the plot file. The plot script loads the parameters, runs the simulation model and plots the results, whihch are shown in the picture below with the chosen parameter initial values.
+
 
 
 
