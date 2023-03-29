@@ -8,9 +8,6 @@
 - The control valve is used to define the motion direction.
 - The hydraulic cylinder generates the force required to open or close the gate.
 
-## Simulink model and parameter file description
-
-
 ## How to use the model
 ![](images/usage1.png)
 
