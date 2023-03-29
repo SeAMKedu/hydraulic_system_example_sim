@@ -26,8 +26,7 @@ This model was created to serve as a training material for a SeAMK project calle
 
 Copy the files (3 pcs) to yout Matlab working folder and run the plot file. The plot script loads the parameters, runs the simulation model and plots the results, whihch are shown in the picture below with the chosen parameter initial values.
 
-
-
+![](images/results1.png)
 
 ## Used Matlab and Simulink versions
 ```bash
