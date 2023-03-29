@@ -1,3 +1,5 @@
+![](/images/tuotekehitys-logo.png)
+
 # General info
 This model was created to serve as a training material for a SeAMK project called [Kasvua tuotekehityksellä Etelä-Pohjanmaan valmistavan teollisuuden pk-yrityksissä](https://projektit.seamk.fi/alykkaat-teknologiat/kasvua-tuotekehityksella-valmistavan-teollisuuden-pk-yrityksissa/) / [Growth of Manufacturing SMEs with New Product Development](https://projects.seamk.fi/en/project-database/?RepoProject=241004). The project is funded by Keski-Suomen ELY/ ESR and the schedule is 1.3.2020 - 30.6.2023.
 
